@@ -7,23 +7,23 @@ Efetue o login com as suas credenciais de acesso. Após o login, você será red
 
 
 
-## `[1] Módulos de Administração` 
+### `[1] Módulos de Administração` 
 
 Os módulos de administração disponíveis são: Groups, Users e Sequences. 
 
-### ► Módulo Groups
+#### ► Módulo Groups
 
 O módulo Groups é usado para criação de grupos de permissões, também chamados de cargos, no web server. Os cargos determinam quais recursos de administração do web server um determinado usuário interno tem acesso. 
 
-### ► Módulo Users
+#### ► Módulo Users
 
 O módulo Users é usado para o gerenciamento dos usuários internos do web server. Dentre as ações de gerenciamento estão: criação de novas contas de usuário e alteração de suas respectivas permissões. 
 
-### ► Módulo Sequences
+#### ► Módulo Sequences
 
 O módulo Sequences é usado para atualização das sequência de peptídeos do webserver. Através desse módulo é possível adicionar novos peptídeos ao banco de dados e editar as informações dos peptídeos pré-armazenados através de uma interface intuitiva. O módulo também disponibiliza um importador e um exportador de dados. 
 
-#### ► Importador de Dados
+##### ► Importador de Dados
 
 O importador possibilita carregar planilhas de dados inteiras para o banco de dados. Para tanto, a planilha deve apresentar os seguintes campos: name, sequence, organism, activity, validation, uniprot, pdb, reference e pubmed. Uma ilustração do padrão planilha pode ser visualizado abaixo.
 
@@ -34,7 +34,7 @@ O importador possibilita carregar planilhas de dados inteiras para o banco de da
 Além disso, um modelo de importação pode ser encontrado neste repositório. 
 
 
-## `Organização dos Dados` 
+### `Organização dos Dados` 
 
 Os dados armazenados no banco de peptídeos seguem uma organização específica que precisa ser mantida. Para tanto, quaisquer atualizações do banco de dados precisam assegurar o cumprimento das especificações apresentadas na tabela abaixo. As especificações de organização de dados apresentada na tabela servem tanto para atualização do banco via interface gráfica quanto via importador de dados. 
 
