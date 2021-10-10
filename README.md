@@ -2,7 +2,7 @@
 
 ## `Administração do Web Server`
 
-|O web server Plantamp disponibiliza uma interface para administração.|
+O web server Plantamp disponibiliza uma interface para administração.
 ----------------------------------------------------------------------
 |Para acessá-la, clique no endereço: https://plantamp.herokuapp.com/admin.|
 ------------------------------------------------------------------------
