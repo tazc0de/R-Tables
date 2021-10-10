@@ -1,6 +1,6 @@
 # Plantamp
 
-## ⋄ Administração do Web Server
+## `Administração do Web Server`
 
 O web server Plantamp disponibiliza uma interface para administração. 
 Para acessá-la, clique no endereço: https://plantamp.herokuapp.com/admin.
@@ -8,7 +8,7 @@ Efetue o login com as suas credenciais de acesso. Após o login, você será red
 
 
 
-## `⋄ Módulos de Administração` 
+## `Módulos de Administração` 
 
 Os módulos de administração disponíveis são: Groups, Users e Sequences. 
 
@@ -35,7 +35,7 @@ O importador possibilita carregar planilhas de dados inteiras para o banco de da
 Além disso, um modelo de importação pode ser encontrado neste repositório. 
 
 
-## ⋄ Organização dos Dados 
+## `Organização dos Dados` 
 
 Os dados armazenados no banco de peptídeos seguem uma organização específica que precisa ser mantida. Para tanto, quaisquer atualizações do banco de dados precisam assegurar o cumprimento das especificações apresentadas na tabela abaixo. As especificações de organização de dados apresentada na tabela servem tanto para atualização do banco via interface gráfica quanto via importador de dados. 
 
