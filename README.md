@@ -10,17 +10,17 @@ Efetue o login com as suas credenciais de acesso. Após o login, você será red
 ### `[1] Módulos de Administração` 
 
 Os módulos de administração disponíveis são: Groups, Users e Sequences. 
-Módulos disponibilizados: Groups [1.1], Users [1.2] e Sequences [1.3].
+Módulos disponibilizados: Groups `[1.1]`, Users `[1.2]` e Sequences `[1.3]`.
 
-#### ► [1.1] Módulo Groups
+#### ► `[1.1]` Módulo Groups
 
 O módulo Groups é usado para criação de grupos de permissões, também chamados de cargos, no web server. Os cargos determinam quais recursos de administração do web server um determinado usuário interno tem acesso. 
 
-#### ► [1.2] Módulo Users
+#### ► `[1.2]` Módulo Users
 
 O módulo Users é usado para o gerenciamento dos usuários internos do web server. Dentre as ações de gerenciamento estão: criação de novas contas de usuário e alteração de suas respectivas permissões. 
 
-#### ► [1.3] Módulo Sequences
+#### ► `[1.3]` Módulo Sequences
 
 O módulo Sequences é usado para atualização das sequência de peptídeos do webserver. Através desse módulo é possível adicionar novos peptídeos ao banco de dados e editar as informações dos peptídeos pré-armazenados através de uma interface intuitiva. O módulo também disponibiliza um importador e um exportador de dados. 
 
