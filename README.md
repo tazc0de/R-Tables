@@ -3,7 +3,7 @@
 ## `Administração do Web Server`
 
 O web server Plantamp disponibiliza uma interface para administração.
-Efetue o login com as suas credenciais de acesso. Após o login, você será redirecionado para a interface de administração do sistema [1].
+Efetue o login com as suas credenciais de acesso. Após o login, você será redirecionado para a interface de administração do sistema `1`.
 
 
 
@@ -24,7 +24,7 @@ O módulo Users é usado para o gerenciamento dos usuários internos do web serv
 
 O módulo Sequences é usado para atualização das sequência de peptídeos do webserver. Através desse módulo é possível adicionar novos peptídeos ao banco de dados e editar as informações dos peptídeos pré-armazenados através de uma interface intuitiva. O módulo também disponibiliza um importador e um exportador de dados. 
 
-### `Importador de Dados`
+### `[2]`Importador de Dados
 
 O importador possibilita carregar planilhas de dados inteiras para o banco de dados. Para tanto, a planilha deve apresentar os seguintes campos: name, sequence, organism, activity, validation, uniprot, pdb, reference e pubmed. Uma ilustração do padrão planilha pode ser visualizado abaixo.
 
@@ -35,7 +35,7 @@ O importador possibilita carregar planilhas de dados inteiras para o banco de da
 Além disso, um modelo de importação pode ser encontrado neste repositório. 
 
 
-### `Organização dos Dados` 
+### `[3]` Organização dos Dados
 
 Os dados armazenados no banco de peptídeos seguem uma organização específica que precisa ser mantida. Para tanto, quaisquer atualizações do banco de dados precisam assegurar o cumprimento das especificações apresentadas na tabela abaixo. As especificações de organização de dados apresentada na tabela servem tanto para atualização do banco via interface gráfica quanto via importador de dados. 
 
