@@ -8,7 +8,7 @@ Efetue o login com as suas credenciais de acesso. Após o login, você será red
 
 
 
-### `[1]` Módulos de Administração 
+### `1` Módulos de Administração 
 
 Módulos disponibilizados: Groups `1.1`, Users `1.2` e Sequences `1.3`.
 
