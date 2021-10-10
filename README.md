@@ -10,7 +10,6 @@ Efetue o login com as suas credenciais de acesso. Após o login, você será red
 
 ### `[1]` Módulos de Administração 
 
-Os módulos de administração disponíveis são: Groups, Users e Sequences. 
 Módulos disponibilizados: Groups `1.1`, Users `1.2` e Sequences `1.3`.
 
 #### ► `1.1` Módulo Groups
