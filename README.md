@@ -54,6 +54,6 @@ A tabela apresenta os campos que precisam ser preenchidos manualmente para armaz
 | referenceª |     Sim     | Multivalorado |                                                  --                                                 | referência1##referência2          |
 | pubmedª    | Sim         | Multivalorado | --<br>Not Available                                                                                 | pubmed1##pubmed2                  |
 
-`<sup>¹ Campos não obrigatórios são preenchidos por padrão com "Not found".</sup><br>
-<sup>² Campos "Monovalorados" armazenam um único valor, enquanto campos "Multivalorados" podem armazenar mais de um valor. Nesse caso, os valores devem ser separados por vírgula. A exeção são os campos "reference" e "pubmed", nos quais seus valores devem ser seprados por "##".</sup><br>
-<sup>ª Os campos "reference" e "pubmed" estão associados de maneira que a primeira referência se associa com o primeiro pubmed id, a segunda referência se associa com o segundo pubmed id, e assim sucessivamente. Portanto, os dois campos devem sempre armazenar o mesmo número de valores.</sup>`
+`<sup>¹ Campos não obrigatórios são preenchidos por padrão com "Not found".</sup><br>`
+`<sup>² Campos "Monovalorados" armazenam um único valor, enquanto campos "Multivalorados" podem armazenar mais de um valor. Nesse caso, os valores devem ser separados por vírgula. A exeção são os campos "reference" e "pubmed", nos quais seus valores devem ser seprados por "##".</sup><br>`
+`<sup>ª Os campos "reference" e "pubmed" estão associados de maneira que a primeira referência se associa com o primeiro pubmed id, a segunda referência se associa com o segundo pubmed id, e assim sucessivamente. Portanto, os dois campos devem sempre armazenar o mesmo número de valores.</sup>`
