@@ -1,5 +1,6 @@
 # Plantamp
-
+![Alt text](./plantamp.svg)
+<img src="./plantamp.svg">
 ## Administração do Web Server
 
 O web server Plantamp disponibiliza uma interface para administração.<br>
