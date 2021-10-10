@@ -3,9 +3,7 @@
 ## `Administração do Web Server`
 
 O web server Plantamp disponibiliza uma interface para administração.
-----------------------------------------------------------------------
 |Para acessá-la, clique no endereço: https://plantamp.herokuapp.com/admin.|
-------------------------------------------------------------------------
 Efetue o login com as suas credenciais de acesso. Após o login, você será redirecionado para a interface de administração do sistema, que pode ser visualizada abaixo:
 
 
