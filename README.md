@@ -24,7 +24,7 @@ O módulo Users é usado para o gerenciamento dos usuários internos do web serv
 
 O módulo Sequences é usado para atualização das sequência de peptídeos do webserver. Através desse módulo é possível adicionar novos peptídeos ao banco de dados e editar as informações dos peptídeos pré-armazenados através de uma interface intuitiva. O módulo também disponibiliza um importador e um exportador de dados. 
 
-### `• 2`Importador de Dados
+### `• 2` Importador de Dados
 
 O importador possibilita carregar planilhas de dados inteiras para o banco de dados. Para tanto, a planilha deve apresentar os seguintes campos: name, sequence, organism, activity, validation, uniprot, pdb, reference e pubmed. Uma ilustração do padrão planilha pode ser visualizado abaixo.
 
